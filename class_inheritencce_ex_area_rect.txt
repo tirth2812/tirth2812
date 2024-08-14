@@ -1,0 +1,14 @@
+class Person:  
+    def __init__(self):
+        self.length=int(input('enter value of length: '))
+        self.width=int(input('enter value of width: '))  
+        #self.length=length 
+        #self.width=width   
+    def greet(self):  
+        answer=self.length*self.width 
+        print("area of rect is " ,answer)  
+        
+# Create a new instance of the Person class and assign it to the variable person1  
+
+person1 = Person()  
+person1.greet()

@@ -1,0 +1,11 @@
+import mod_area
+p=int(input('enter value of l:'))
+q=int(input('enter value of b:'))
+t=int(input('enter value of a:'))
+s=int(input('enter value of r:'))
+A=mod_area.areaofR(p,q)
+B=mod_area.areaofS(t)
+C=mod_area.areaofC(s)
+print('area of rect is ',A)
+print("area of square is ",B)
+print('area of circle is ',C)
