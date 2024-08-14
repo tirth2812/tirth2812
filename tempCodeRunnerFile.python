@@ -1,0 +1,6 @@
+import nfile
+n=int(input('enter value n:'))
+ch=input('enter the chpoice fact ,sqrt,qube:')
+nfile.fac(n,ch)
+nfile.sqrt(n,ch)
+nfile.qube(n,ch)
