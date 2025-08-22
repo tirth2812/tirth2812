@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tirth2812
-- 👀 I’m interested in Ux/ui,graphic design
-- 🌱 I’m currently learning graphic design and human computer interaction
+- 👀 I’m interested in Embedded software development
 - 📫 How to reach me tirths2455@gmail.com
 - ⚡ Fun fact: ready to learn something new ,hard working
 
