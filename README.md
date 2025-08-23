@@ -14,7 +14,7 @@
 
 Welcome to my GitHub portfolio! I'm an **Electrical and Electronics Engineer** with hands-on experience in firmware development, embedded UI design, and microcontroller-based system integration.
 
-> “Innovation lives at the intersection of firmware, sensors, and soldering.”
+> “Innovation lives at the intersection of firmware.”
 
 ---
 
