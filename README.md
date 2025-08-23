@@ -169,7 +169,7 @@ Responsibility, Growth Mindset
 - 📧 Email: [tirth.p2812@gmail.com](mailto:tirth.p2812@gmail.com)  
 - 📱 Phone: +1 (909) 762-0503  
 - 🌍 Location: Pomona, CA  
-- 📄 [**Resume**](https://github.com/tirth2812/tirth2812/blob/main/TIRTH%20PATEL.pdf)
+- 📄 [**Resume**](https://github.com/tirth2812/tirth2812/raw/main/TIRTH%20PATEL.pdf)
 
 ---
 
