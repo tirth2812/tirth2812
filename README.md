@@ -70,17 +70,10 @@ This project is an embedded vehicle authentication system that prevents unauthor
 
 #### 🔨 My Role & Contributions:
 - **Designed complete hardware architecture** integrating STM32 and Arduino platforms with biometric sensors.
-- **Implemented authentication logic** using UART protocols for both RFID and fingerprint modules.
-- **Wrote embedded C/C++ code** for multi-stage authentication, including:
-  - RFID decryption
-  - Fingerprint matching
-  - Real-time system state handling
-- **Developed EEPROM-based storage system** to retain authorized user profiles locally.
-- **Integrated accident detection logic** using vibration threshold + GPS location fetch.
-- **Sent emergency alerts via GSM** (SMS) using AT commands with dynamic GPS data.
+- **Handled full hardware wiring and physical assembly**, ensuring reliable power distribution, module placement, and secure signal routing across all components.
+- **Integrated accident detection logic** using vibration threshold 
 - **Deployed real-time feedback via LEDs** and LCD to guide the driver through authentication steps.
 - Successfully demonstrated the project for government funding and **secured ₹73,000 under SSIP** for real-world viability.
-
 ---
 
 ### [🔥 Autoclave – Heater Controller](https://github.com/tirth2812/Heater_controller)  
