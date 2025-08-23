@@ -178,5 +178,5 @@ Responsibility, Growth Mindset
   <b><p align="center">
   <b>Every experiment leads to growth — thank you for visiting! 🌱🔬</b>
 </p>
-. Thanks for visiting! 🧠⚡</b>
+
 </p>
