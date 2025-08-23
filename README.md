@@ -2,7 +2,7 @@
 
 Welcome to my GitHub portfolio! I'm a passionate **Electrical and Electronics Engineer** focused on embedded systems, firmware development, and hardware-software integration. With hands-on experience in **STM32**, **Nuvoton**, **low-level C programming**, and real-time systems, I’ve led and contributed to impactful automation and control system projects.
 
-> “Innovation lives at the intersection of firmware, sensors, and soldering.”
+> “Innovation lives at the intersection with firmware.”
 
 ---
 
