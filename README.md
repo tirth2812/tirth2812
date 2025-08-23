@@ -175,5 +175,8 @@ Responsibility, Growth Mindset
 ---
 
 <p align="center">
-  <b>Let’s build smarter systems together. Thanks for visiting! 🧠⚡</b>
+  <b><p align="center">
+  <b>Every experiment leads to growth — thank you for visiting! 🌱🔬</b>
+</p>
+. Thanks for visiting! 🧠⚡</b>
 </p>
