@@ -62,7 +62,6 @@ Proficient in **C/C++**, debugging, and test planning for reliable microcontroll
 
 ---
 
-
 ### [🚗 Driving Licence Controlled Smart Vehicle](https://github.com/tirth2812/driving_licence_controlled_smart_vehicle)  
 🔧 **Tech Stack:** STM32, Arduino, C/C++, RC522 RFID, R305 Fingerprint Sensor, GSM (SIM800L), GPS Module  
 
