@@ -95,7 +95,7 @@ An industrial-grade temperature control unit developed for autoclaves or lab-gra
 
 ---
 
-### [⚡ Pulse Generator – LCD Controlled](https://github.com/tirth2812/Pulse_generator)  
+### [⚡ Pulse Generator](https://github.com/tirth2812/Pulse_generator)  
 🔧 **Tech Stack:** Nuvoton M0518 MCU, Embedded C, Timers, EEPROM, LCD 16x2  
 
 A configurable industrial pulse generator used for simulating test signals, frequency sweeps, or pulse injection into circuits. Built with a clean menu-based interface displayed on a 16x2 LCD and operated using pushbuttons.
