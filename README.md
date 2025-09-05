@@ -145,7 +145,6 @@ Responsibility, Growth Mindset
 
 ## 🏆 Achievements
 
-- ⚙️ **IIT Bombay Robotics Challenge** – Built Self-Balancing Robot  
 - 🏆 **SSIP Startup Grant** – ₹73,000 for Smart Vehicle Project  
 - ⚙️ **Solo Builder** – Designed and deployed full pulse generation system  
 - 🎨 **Design Lead** – Created social content for GTU @anveshan.gecsurat
