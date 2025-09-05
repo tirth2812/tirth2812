@@ -21,7 +21,7 @@ Welcome to my GitHub portfolio! I'm an **Electrical and Electronics Engineer** w
 ## 🧠 Summary
 
 Electrical and electronics engineer with hands-on experience in firmware design, hardware testing, and embedded system optimization.  
-Proficient in **C/C++**, debugging, and test planning for reliable microcontroller solutions. Strong foundation in troubleshooting, teamwork, and competition-level problem-solving (e.g. IIT Bombay Robotics Challenge).
+Proficient in **C/C++**, debugging, and test planning for reliable microcontroller solutions. Strong foundation in troubleshooting, teamwork, and competition-level problem-solving as IIT Bombay Robotics Challenge.
 
 ---
 
