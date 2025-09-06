@@ -20,8 +20,7 @@ Welcome to my GitHub portfolio! I'm an **Electrical and Electronics Engineer** w
 
 ## 🧠 Summary
 
-Electrical and electronics engineer with hands-on experience in firmware design, hardware testing, and embedded system optimization.  
-Proficient in **C/C++**, debugging, and test planning for reliable microcontroller solutions. Strong foundation in troubleshooting, teamwork, and competition-level problem-solving as IIT Bombay Robotics Challenge.
+Electrical and Electronics Engineer with hands-on experience in firmware design, hardware testing, and embedded system optimization. Proficient in C/C++, debugging, and structured test planning to deliver reliable microcontroller-based solutions. Currently serving as a Systems Engineer in the Northrop Grumman Collaboration Project (NGCP), where I coordinate across technical subteams to align system-level requirements for autonomous vehicle platforms, strengthening my skills in documentation, systems thinking, and cross-functional collaboration. Demonstrated ability to execute real-world solutions through projects such as a startup-funded smart vehicle system (₹73,000 SSIP Grant), multiple independently built embedded system projects, and creative leadership as the Design Lead for GTU’s official student chapter, where I produced consistent, high-impact digital content.
 
 ---
 
