@@ -20,7 +20,7 @@ Welcome to my GitHub portfolio! I'm an **Electrical and Electronics Engineer** w
 
 ## 🧠 Summary
 
-Electrical and Electronics Engineer with hands-on experience in firmware design, hardware testing, and embedded system optimization. Proficient in C/C++, debugging, and structured test planning to deliver reliable microcontroller-based solutions. Currently serving as a Systems Engineer in the Northrop Grumman Collaboration Project (NGCP), where I coordinate across technical subteams to align system-level requirements for autonomous vehicle platforms, strengthening my skills in documentation, systems thinking, and cross-functional collaboration. Demonstrated ability to execute real-world solutions through projects such as a startup-funded smart vehicle system (₹73,000 SSIP Grant), multiple independently built embedded system projects, and creative leadership as the Design Lead for GTU’s official student chapter, where I produced consistent, high-impact digital content.
+Electrical and Electronics Engineer with hands-on experience as an Embedded Software Engineer, focused on firmware design, hardware testing, computer architecture, and system optimization. Experienced in C/C++ programming, debugging, and structured test planning to deliver reliable microcontroller-based solutions. Experienced in troubleshooting integrated hardware/software systems and collaborating with cross-functional teams to achieve project milestones. Experienced with STM32, Arduino, and Nuvoton microcontrollers, working with UART, I²C, SPI, EEPROM, sensors, and displays to build real-time embedded solutions. Accomplishments include leading a startup-funded smart vehicle project (₹73,000 SSIP Fund) and participating in hackathons with innovative embedded system designs. 
 
 ---
 
@@ -135,7 +135,7 @@ Strengths:
 Software Engineering, Optimization, Low-level System Design, Problem-Solving, Algorithmic Thinking, Independent Projects, Team Collaboration, Cross-functional Collaboration, Detail-oriented, Analytical Skills, Growth Mindset
 
 Workplace Competencies: 
-Teamwork, Professionalism, Time Management, Organizational Skills, Abilityto Work Independently/
+Teamwork, Professionalism, Time Management, Organizational Skills, Abilityto Work Independently.
 
 
 ---
