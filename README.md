@@ -38,36 +38,44 @@ Electrical and Electronics Engineer with hands-on experience as an Embedded Soft
 
 ## 💼 Work Experience
 
-### 🔹 System Engineer 
-**Northrop Grumman Collaboration Project** | Aug 2025 – Present 
-•	Derived system-level requirements and identified potential risks for UGV (Unmanned Ground Vehicle) systems.
-•	Created models and diagrams to support key design reviews including System Requirements Review (SRR) and Preliminary Design Review (PDR).
-•	Prepared technical documentation to ensure alignment with Northrop Grumman standards.
-•	Coordinated with Electrical Team and sub-teams to align work with overall mission objectives.
-•	Supported validation of electrical subsystems and ensured consistency with mission requirements.
+### 🔹 System Engineer  
+**Northrop Grumman Collaboration Project** | Aug 2025 – Present  
 
+- Derived system-level requirements and identified potential risks for UGV (Unmanned Ground Vehicle) systems.  
+- Created models and diagrams to support key design reviews including **System Requirements Review (SRR)** and **Preliminary Design Review (PDR)**.  
+- Prepared technical documentation to ensure alignment with Northrop Grumman standards.  
+- Coordinated with the Electrical Team and sub-teams to align work with overall mission objectives.  
+- Supported validation of electrical subsystems and ensured consistency with mission requirements.  
+
+---
 
 ### 🔹 Embedded Software Developer  
 **Inoweave** | Jan 2024 – Jun 2024  
-•	Programmed STM32 and Nuvoton microcontrollers (MCUs) in C/C++, applying Test-Driven Development (TDD) and Continuous Integration/Continuous Deployment (CI/CD) practices with daily Git commits to ensure reliable firmware performance with ±1 °C calibration accuracy.
-•	Designed pulse-generation logic and implemented signal-processing routines, using automated testing and structured debugging to improve timing precision and responsiveness.
-•	Built real-time graphical displays using LCDs, Lunacy, and TouchGFX and optimized low-level firmware to improve user feedback responsiveness by ~50%.
-•	Integrated communication protocols such as Inter-Integrated Circuit (I²C) and Universal Asynchronous Receiver-Transmitter (UART) for reliable device interfacing and data exchange.
-•	Authored design documentation and participated in design reviews to ensure traceability, maintainability, and compliance with engineering standards.
 
+- Programmed **STM32** and **Nuvoton microcontrollers (MCUs)** in C/C++, applying **Test-Driven Development (TDD)** and **Continuous Integration/Continuous Deployment (CI/CD)** practices with daily Git commits to ensure reliable firmware performance with ±1 °C calibration accuracy.  
+- Designed **pulse-generation logic** and implemented **signal-processing routines**, using automated testing and structured debugging to improve timing precision and responsiveness.  
+- Built real-time **graphical displays** using LCDs, Lunacy, and TouchGFX, and optimized low-level firmware to improve user feedback responsiveness by ~50%.  
+- Integrated communication protocols such as **Inter-Integrated Circuit (I²C)** and **Universal Asynchronous Receiver-Transmitter (UART)** for reliable device interfacing and data exchange.  
+- Authored **design documentation** and participated in **design reviews** to ensure traceability, maintainability, and compliance with engineering standards.  
+
+---
 
 ### 🔹 Hardware Testing & Assembly  
 **Nexinnovation** | Jun 2023 – Jul 2023  
-•	Executed comprehensive hardware testing using oscilloscopes, multimeters, and signal analyzers, verifying full system functionality and ensuring performance adherence.
-•	Conducted diagnostic evaluations and structured debugging procedures to identify hardware issues, achieving a ~20% reduction in failure rates.
-•	Coordinated assembly and testing tasks in collaboration with project partners, improving completion efficiency by ~15% while meeting strict project schedules.
-•	Gained experience in teamwork, troubleshooting, and assembling embedded hardware prototypes to deliver reliable results.
 
+- Executed comprehensive hardware testing using **oscilloscopes, multimeters, and signal analyzers**, verifying full system functionality and ensuring performance adherence.  
+- Conducted diagnostic evaluations and structured debugging procedures to identify hardware issues, achieving a ~20% reduction in failure rates.  
+- Coordinated assembly and testing tasks in collaboration with project partners, improving completion efficiency by ~15% while meeting strict project schedules.  
+- Gained experience in **teamwork, troubleshooting, and assembling embedded hardware prototypes** to deliver reliable results.  
+
+---
 
 ### 🔹 GTU Surat Student Coordinator  
 **Gujarat Technological University** | Jun 2022 – Jun 2024  
-- Increased Instagram engagement for @anveshan.gecsurat by 30%  
-- Designed consistent visual UI/UX for events and updates
+
+- Increased Instagram engagement for **@anveshan.gecsurat** by 30%.  
+- Designed consistent **visual UI/UX** for events and updates.  
+
 
 ---
 
