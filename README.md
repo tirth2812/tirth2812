@@ -135,7 +135,7 @@ Strengths:
 Software Engineering, Optimization, Low-level System Design, Problem-Solving, Algorithmic Thinking, Independent Projects, Team Collaboration, Cross-functional Collaboration, Detail-oriented, Analytical Skills, Growth Mindset
 
 Workplace Competencies: 
-Teamwork, Professionalism, Time Management, Organizational Skills, Abilityto Work Independently
+Teamwork, Professionalism, Time Management, Organizational Skills, Abilityto Work Independently/
 
 
 ---
