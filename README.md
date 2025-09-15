@@ -10,7 +10,7 @@
 
 ---
 
-### 📍 Pomona, CA | 📧 [tirth.p2812@gmail.com](mailto:tirth.p2812@gmail.com) | 🔗 [GitHub](https://github.com/tirth2812)
+### 📍 Pomona, CA | 📧 [tirth.p2812@gmail.com](mailto:tirth.p2812@gmail.com) | 🔗 [GitHub](https://github.com/tirth2812) | 💼 [LinkedIn](https://www.linkedin.com/in/tirth-patel-33b167285)
 
 Welcome to my GitHub portfolio! I'm an **Electrical and Electronics Engineer** with hands-on experience in firmware development, embedded UI design, and microcontroller-based system integration.
 
