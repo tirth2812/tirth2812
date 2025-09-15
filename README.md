@@ -122,23 +122,21 @@ A configurable industrial pulse generator used for simulating test signals, freq
 
 ## 🛠️ Skills
 
-**Languages:**  
-C, C++, Python, Java, Verilog, Assembly, HTML
+Programming Languages: 
+C, C++, Python, Java, Verilog, Assembly, HTML, Embedded Language
 
-**Tools & Platforms:**  
-Keil uVision, STM32CubeIDE, Xilinx Vivado, VS Code, Git, MS Office
+Software Tools: 
+Keil uVision, Xilinx Vivado, Visual StudioCode, Git, Microsoft Office Suite, MATLAB
 
-**Embedded & Systems:**  
-GPIO, PWM, Timers, ADC, I2C, SPI, UART, EEPROM, RTOS Basics,  
-Firmware Design, Debugging, Embedded UI, STM32, Arduino
+Embedded & System Skills: 
+GPIO, PWM, Timers, ADC, I2C, SPI, UART, EEPROM, RTOS fundamentals, TCP/IP, Firmware Design, data structures, Embedded Code, Operating Systems, Debugging Procedures, Troubleshooting, Arduino, STM32, object-oriented computer programming, systems programming.
 
-**Strengths:**  
-Problem Solving, Optimization, Low-Level Coding, System Design,  
-Analytical Thinking, Independent Development, Team Collaboration
+Strengths: 
+Software Engineering, Optimization, Low-level System Design, Problem-Solving, Algorithmic Thinking, Independent Projects, Team Collaboration, Cross-functional Collaboration, Detail-oriented, Analytical Skills, Growth Mindset
 
-**Workplace Values:**  
-Professionalism, Time Management, Communication, Organization,  
-Responsibility, Growth Mindset
+Workplace Competencies: 
+Teamwork, Professionalism, Time Management, Organizational Skills, Abilityto Work Independently
+
 
 ---
 
