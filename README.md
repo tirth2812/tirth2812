@@ -174,8 +174,7 @@ Teamwork, Professionalism, Time Management, Organizational Skills, Abilityto Wor
 
 - 📧 Email: [tirth.p2812@gmail.com](mailto:tirth.p2812@gmail.com)  
 - 📱 Phone: +1 (909) 762-0503  
-- 🌍 Location: Pomona, CA  
-- 📄 [**Resume**](https://www.dropbox.com/scl/fi/130l3w20dr65ry51caii7/TIRTH-PATEL.pdf?rlkey=0hdpqypl48ai3q8f8yrkiwunm&st=7xcx5n2l&dl=1)
+- 🌍 Location: Pomona, CA 
 
 
 ---
