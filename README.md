@@ -84,7 +84,7 @@ Electrical and Electronics Engineer with hands-on experience as an Embedded Soft
 ---
 
 ### [🚗 Driving Licence Controlled Smart Vehicle – Multi-Factor Driver Authentication System (MFDAS)](https://github.com/tirth2812/driving_licence_controlled_smart_vehicle)  
-🔧 **Tech Stack:** STM32, Arduino, C/C++, RC522 RFID, R305 Fingerprint Sensor, GSM (SIM800L), GPS Module  
+🔧 **Tech Stack:** Raspbarry pi, Arduino, C/C++, RC522 RFID, R305 Fingerprint Sensor, GSM (SIM800L), GPS Module  
 
 This project is an embedded vehicle authentication system that prevents unauthorized or underage users from starting a vehicle. It requires the driver to scan an encrypted RFID-based driving license and match their fingerprint before ignition is enabled. Additionally, the system includes accident detection with GPS location reporting through GSM in emergency scenarios.
 
