@@ -38,6 +38,16 @@ Electrical and Electronics Engineer with hands-on experience as an Embedded Soft
 
 ## 💼 Work Experience
 
+### 🔹 Research Assistant  
+**CREST-RASM** | Jan 2026 – Present  
+
+- Continuously processed real-time multi-sensor data to detect object presence, position, and operating conditions during system execution.  
+- Implemented embedded closed-loop control logic in **C++ and Python** for grasping and anti-grasping decisions based on sensor feedback.  
+- Generated and transmitted coordinated actuator control commands aligned with conveyor motion and object positioning.  
+- Exchanged real-time control and status data with **PLCs using OPC-UA communication**, ensuring synchronized subsystem operation.  
+- Performed runtime monitoring, debugging, and safety validation, triggering corrective or emergency stop actions under abnormal conditions.  
+
+---
 ### 🔹 System Engineer  
 **Northrop Grumman Collaboration Project** | Aug 2025 – Present  
 
