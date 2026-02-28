@@ -1,4 +1,4 @@
-add it to the this git <h1 align="center">Tirth Patel</h1>
+<h1 align="center">Tirth Patel</h1>
 <h3 align="center"><i>Embedded Systems | Firmware Development | Electronics Hardware</i></h3>
 
 <p align="center">
@@ -76,7 +76,6 @@ Electrical and Electronics Engineer with hands-on experience as an Embedded Soft
 - Increased Instagram engagement for **@anveshan.gecsurat** by 30%.  
 - Designed consistent **visual UI/UX** for events and updates.  
 
-
 ---
 
 ## 🔧 Projects
@@ -104,7 +103,7 @@ An industrial-grade temperature control unit developed for autoclaves or lab-gra
 #### 🔨 My Role & Contributions:
 - **Developed core logic from scratch** using Embedded C in Keil uVision for Mini51 microcontroller.
 - **Integrated temperature sensors (analog)** and implemented a **real-time ADC-to-temperature converter**.
-- **Used PWM and relay switching** logic to maintain temperature with ±1°C calibration accuracy.
+- **Used PWM and relay switching logic** to maintain temperature with ±1°C calibration accuracy.
 - **Implemented EEPROM memory handling** to store last-set values (min/max temp) even after power loss.
 - **Designed interactive user interface** using 3-digit Seven-Segment display and key input:
   - Set temperature limits
@@ -141,47 +140,21 @@ A configurable industrial pulse generator used for simulating test signals, freq
 
 ---
 
+### [🚗 Ultrasonic Touch-Based Vehicle Control System](https://github.com/tirth2812)
+🔧 **Tech Stack:** STM32F401RE, ESP32 (Dual), Embedded C, ESP-NOW, I2C, SPI, PWM, HC-SR04 Ultrasonic Sensors, IBT-2 Motor Drivers, TSC2046  
+
+A dual-mode embedded vehicle control system enabling low-latency wireless touch-based driving with integrated ultrasonic obstacle detection. The system separates wireless communication and motor control across ESP32 and STM32 for modular, real-time performance.
+
+#### 🔨 My Role & Contributions:
+- Developed core firmware in Embedded C on STM32F401RE for real-time motion processing and deterministic control.
+- Implemented ESP-NOW peer-to-peer wireless communication between dual ESP32 modules.
+- Integrated I2C communication between ESP32 receiver and STM32.
+- Designed PWM-based motor control logic for IBT-2 drivers.
+- Processed SPI-based touchpad X/Y coordinates and mapped motion zones.
+- Implemented filtering, hysteresis, and validation logic to stabilize directional transitions.
+- Integrated three HC-SR04 ultrasonic sensors with automatic safety stop (<30 cm threshold).
+
+---
 
 ## 🛠️ Skills
-
-Programming Languages: 
-C, C++, Python, Java, Verilog, Assembly, HTML, Embedded Language
-
-Software Tools: 
-Keil uVision, Xilinx Vivado, Visual StudioCode, Git, Microsoft Office Suite, MATLAB
-
-Embedded & System Skills: 
-GPIO, PWM, Timers, ADC, I2C, SPI, UART, EEPROM, RTOS fundamentals, TCP/IP, Firmware Design, data structures, Embedded Code, Operating Systems, Debugging Procedures, Troubleshooting, Arduino, STM32, object-oriented computer programming, systems programming.
-
-Strengths: 
-Software Engineering, Optimization, Low-level System Design, Problem-Solving, Algorithmic Thinking, Independent Projects, Team Collaboration, Cross-functional Collaboration, Detail-oriented, Analytical Skills, Growth Mindset
-
-Workplace Competencies: 
-Teamwork, Professionalism, Time Management, Organizational Skills, Abilityto Work Independently.
-
-
----
-
-## 🏆 Achievements
-
-- 🏆 **SSIP Startup Grant** – ₹73,000 for Smart Vehicle Project  
-- ⚙️ **Solo Builder** – Designed and deployed full pulse generation system  
-- 🎨 **Design Lead** – Created social content for GTU @anveshan.gecsurat
-
----
-
-## 🌐 Contact
-
-- 📧 Email: [tirth.p2812@gmail.com](mailto:tirth.p2812@gmail.com)  
-- 📱 Phone: +1 (909) 762-0503  
-- 🌍 Location: Pomona, CA 
-
-
----
-
-<p align="center">
-  <b><p align="center">
-  <b>Every experiment leads to growth — thank you for visiting! 🌱🔬</b>
-</p>
-
-</p>
+...
