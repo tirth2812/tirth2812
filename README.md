@@ -2,7 +2,7 @@
 <h3 align="center"><i>Embedded Systems | Firmware Development | Electronics Hardware</i></h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microcontrollers-STM32%20%7C%20Nuvoton-blue?style=flat-square&logo=arm" />
+  <img src="https://img.shields.io/badge/Microcontrollers-blue?style=flat-square&logo=arm" />
   <img src="https://img.shields.io/badge/Firmware-C%20%7C%20Embedded%20C-informational?style=flat-square&logo=c" />
   <img src="https://img.shields.io/badge/Debugging-Real%20Time%20Systems-critical?style=flat-square&logo=raspberrypi" />
   <img src="https://img.shields.io/badge/Team-Project%20Driven-success?style=flat-square&logo=github" />
