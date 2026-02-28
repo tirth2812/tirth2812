@@ -157,4 +157,41 @@ A dual-mode embedded vehicle control system enabling low-latency wireless touch-
 ---
 
 ## 🛠️ Skills
-...
+
+### 💻 Programming Languages
+C, C++, Python, Java, Verilog, Assembly, HTML
+
+---
+
+### 🔧 Embedded Systems & Firmware
+Embedded C, Firmware Development, GPIO, PWM, Timers, ADC, Interrupt Handling, State Machines, Memory Management, Low-Level Driver Development, Real-Time Embedded Systems, Peripheral Interfacing
+
+---
+
+### 📡 Communication Protocols
+UART, I²C, SPI, ESP-NOW, EEPROM Interfacing, Serial Communication, Wireless Peer-to-Peer Communication
+
+---
+
+### 🧰 Microcontrollers & Platforms
+STM32 (F4 Series), Nuvoton (Mini51, M0518), ESP32, Arduino, Raspberry Pi
+
+---
+
+### 🔌 Hardware & System Integration
+Sensor Integration (Ultrasonic, Temperature, Touchpad), Motor Drivers (IBT-2), Relay Control, Seven-Segment Displays, LCD 16x2, Power Distribution, Hardware Debugging, Oscilloscope-Based Validation
+
+---
+
+### 🛠️ Development Tools
+Keil uVision, STM32CubeIDE, Xilinx Vivado, Visual Studio Code, Git, MATLAB, TouchGFX
+
+---
+
+### 🧪 Testing & Debugging
+Oscilloscope Debugging, Multimeter Testing, Signal Validation, Structured Debugging, System Calibration, Hardware-Level Testing
+
+---
+
+### 🧠 Computer Science Foundations
+Data Structures, Operating Systems, Computer Architecture, Systems Programming, Algorithm Design
