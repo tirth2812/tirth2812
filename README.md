@@ -140,7 +140,7 @@ A configurable industrial pulse generator used for simulating test signals, freq
 
 ---
 
-### [🚗 Ultrasonic Touch-Based Vehicle Control System](https://github.com/tirth2812)
+### [🚗 Ultrasonic Touch-Based Vehicle Control System](https://github.com/tirth2812/TouchControlCar)
 🔧 **Tech Stack:** STM32F401RE, ESP32 (Dual), Embedded C, ESP-NOW, I2C, SPI, PWM, HC-SR04 Ultrasonic Sensors, IBT-2 Motor Drivers, TSC2046  
 
 A dual-mode embedded vehicle control system enabling low-latency wireless touch-based driving with integrated ultrasonic obstacle detection. The system separates wireless communication and motor control across ESP32 and STM32 for modular, real-time performance.
