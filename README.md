@@ -38,7 +38,7 @@ Electrical and Electronics Engineer with hands-on experience as an Embedded Soft
 
 ## 💼 Work Experience
 
-### 🔹 Research Assistant  
+### 🔹 Graduate Research Assistant  
 **CREST-RASM** | Jan 2026 – Present  
 
 - Continuously processed real-time multi-sensor data to detect object presence, position, and operating conditions during system execution.  
