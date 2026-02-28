@@ -52,21 +52,20 @@ Electrical and Electronics Engineer with hands-on experience as an Embedded Soft
 ### 🔹 Embedded Software Developer  
 **Inoweave** | Jan 2024 – Jun 2024  
 
-- Programmed **STM32** and **Nuvoton microcontrollers (MCUs)** in C/C++, applying **Test-Driven Development (TDD)** and **Continuous Integration/Continuous Deployment (CI/CD)** practices with daily Git commits to ensure reliable firmware performance with ±1 °C calibration accuracy.  
-- Designed **pulse-generation logic** and implemented **signal-processing routines**, using automated testing and structured debugging to improve timing precision and responsiveness.  
-- Built real-time **graphical displays** using LCDs, Lunacy, and TouchGFX, and optimized low-level firmware to improve user feedback responsiveness by ~50%.  
-- Integrated communication protocols such as **Inter-Integrated Circuit (I²C)** and **Universal Asynchronous Receiver-Transmitter (UART)** for reliable device interfacing and data exchange.  
-- Authored **design documentation** and participated in **design reviews** to ensure traceability, maintainability, and compliance with engineering standards.  
+- Programmed **STM32** and **Nuvoton microcontrollers (MCUs)** in C/C++, applying **Test-Driven Development (TDD)** and **CI/CD** practices with daily Git commits to ensure reliable firmware performance with ±1 °C calibration accuracy.  
+- Designed **pulse-generation logic** and implemented **signal-processing routines**, improving timing precision and responsiveness.  
+- Built real-time **graphical displays** using LCDs, Lunacy, and TouchGFX, optimizing firmware to improve user feedback responsiveness by ~50%.  
+- Integrated communication protocols such as **I²C** and **UART** for reliable device interfacing and data exchange.  
+- Authored **design documentation** and participated in **design reviews** to ensure traceability and maintainability.  
 
 ---
 
 ### 🔹 Hardware Testing & Assembly  
 **Nexinnovation** | Jun 2023 – Jul 2023  
 
-- Executed comprehensive hardware testing using **oscilloscopes, multimeters, and signal analyzers**, verifying full system functionality and ensuring performance adherence.  
-- Conducted diagnostic evaluations and structured debugging procedures to identify hardware issues, achieving a ~20% reduction in failure rates.  
-- Coordinated assembly and testing tasks in collaboration with project partners, improving completion efficiency by ~15% while meeting strict project schedules.  
-- Gained experience in **teamwork, troubleshooting, and assembling embedded hardware prototypes** to deliver reliable results.  
+- Executed comprehensive hardware testing using **oscilloscopes, multimeters, and signal analyzers**, verifying system functionality.  
+- Conducted structured debugging procedures, achieving ~20% reduction in failure rates.  
+- Coordinated assembly and testing tasks, improving completion efficiency by ~15%.  
 
 ---
 
@@ -76,7 +75,6 @@ Electrical and Electronics Engineer with hands-on experience as an Embedded Soft
 - Increased Instagram engagement for **@anveshan.gecsurat** by 30%.  
 - Designed consistent **visual UI/UX** for events and updates.  
 
-
 ---
 
 ## 🔧 Projects
@@ -84,104 +82,87 @@ Electrical and Electronics Engineer with hands-on experience as an Embedded Soft
 ---
 
 ### [🚗 Driving Licence Controlled Smart Vehicle – Multi-Factor Driver Authentication System (MFDAS)](https://github.com/tirth2812/driving_licence_controlled_smart_vehicle)  
-🔧 **Tech Stack:** Raspberry pi, Arduino, C/C++, RC522 RFID, R305 Fingerprint Sensor, GSM (SIM800L), GPS Module  
+🔧 **Tech Stack:** Raspberry Pi, Arduino, C/C++, RC522 RFID, R305 Fingerprint Sensor, GSM (SIM800L), GPS Module  
 
-This project is an embedded vehicle authentication system that prevents unauthorized or underage users from starting a vehicle. It requires the driver to scan an encrypted RFID-based driving license and match their fingerprint before ignition is enabled. Additionally, the system includes accident detection with GPS location reporting through GSM in emergency scenarios.
+An embedded vehicle authentication system that prevents unauthorized users from starting a vehicle using encrypted RFID and biometric verification.
 
 #### 🔨 My Role & Contributions:
-- **Designed complete hardware architecture** integrating raspberry pi and Arduino platforms with biometric sensors.
-- **Handled full hardware wiring and physical assembly**, ensuring reliable power distribution, module placement, and secure signal routing across all components.
-- **Integrated accident detection logic** using vibration threshold 
-- **Deployed real-time feedback via LEDs** and LCD to guide the driver through authentication steps.
-- Successfully demonstrated the project for government funding and **secured ₹73,000 under SSIP** for real-world viability.
+- Designed complete hardware architecture integrating Raspberry Pi and Arduino with biometric sensors.
+- Handled full hardware wiring and physical assembly with reliable power distribution.
+- Integrated accident detection logic with real-time feedback.
+- Secured ₹73,000 under SSIP funding.
+
 ---
 
 ### [🔥 Autoclave – Heater Controller](https://github.com/tirth2812/Heater_controller)  
 🔧 **Tech Stack:** Nuvoton Mini51 MCU, Embedded C, ADC, PWM, EEPROM, Seven-Segment Display  
 
-An industrial-grade temperature control unit developed for autoclaves or lab-grade sterilizers. The system uses ADC to read temperature, controls heater power via relay + PWM, and stores user-defined thresholds using EEPROM. Designed for high reliability and safety.
+Industrial-grade temperature control unit using ADC sensing, relay + PWM control, and EEPROM-based persistence.
 
 #### 🔨 My Role & Contributions:
-- **Developed core logic from scratch** using Embedded C in Keil uVision for Mini51 microcontroller.
-- **Integrated temperature sensors (analog)** and implemented a **real-time ADC-to-temperature converter**.
-- **Used PWM and relay switching** logic to maintain temperature with ±1°C calibration accuracy.
-- **Implemented EEPROM memory handling** to store last-set values (min/max temp) even after power loss.
-- **Designed interactive user interface** using 3-digit Seven-Segment display and key input:
-  - Set temperature limits
-  - View current readings
-  - Toggle system ON/OFF
-- **Calibrated system using test tools** (multimeter + digital thermometer) to fine-tune sensor offsets.
-- Enhanced operational safety by adding system timeout and overheat protection logic.
-- Focused on memory efficiency and system stability for long-duration continuous usage.
+- Developed core logic in Embedded C using Keil uVision.
+- Implemented ADC-to-temperature conversion.
+- Designed PWM + relay control for ±1°C regulation.
+- Integrated EEPROM memory persistence.
+- Designed Seven-Segment UI.
+- Added safety timeout and overheat protection logic.
 
 ---
 
 ### [⚡ Pulse Generator](https://github.com/tirth2812/Pulse_generator)  
 🔧 **Tech Stack:** Nuvoton M0518 MCU, Embedded C, Timers, EEPROM, LCD 16x2  
 
-A configurable industrial pulse generator used for simulating test signals, frequency sweeps, or pulse injection into circuits. Built with a clean menu-based interface displayed on a 16x2 LCD and operated using pushbuttons.
+Programmable industrial signal control system for lab-grade testing.
 
 #### 🔨 My Role & Contributions:
-- **Led this project independently** from ideation to implementation and testing.
-- Designed embedded logic for:
-  - **Precise pulse generation using timers**
-  - Adjustable RPM-based frequency output
-  - Pulse width and delay control
-- **Built a user interface with menu navigation**:
-  - Select pulse mode (manual/automatic)
-  - Set RPM (100–9999 range)
-  - Start/stop pulse sequence
-- **Used EEPROM for memory persistence** to retain last-used settings and user preferences.
-- **Validated outputs using an oscilloscope** to ensure pulse accuracy and signal consistency.
-- Focused on:
-  - Memory-constrained UI design
-  - Low-latency user inputs
-  - Real-time counter refresh without UI flickering
-- Final product mimicked commercial test tools in usability and precision, making it ideal for lab testing or production line diagnostics.
+- Designed precise timer-based pulse generation logic.
+- Built LCD-based menu UI with runtime parameter configuration.
+- Implemented EEPROM persistence.
+- Validated signal accuracy using oscilloscope.
 
 ---
 
+### [🚗 Ultrasonic Touch-Based Vehicle Control System](https://github.com/tirth2812)  
+🔧 **Tech Stack:** STM32F401RE, ESP32 (Dual), Embedded C, ESP-NOW, I2C, SPI, PWM, HC-SR04 Ultrasonic Sensors, IBT-2 Motor Drivers, TSC2046  
+
+A dual-mode embedded vehicle control system enabling low-latency wireless touch-based driving with ultrasonic obstacle detection.
+
+#### 🔨 My Role & Contributions:
+- Developed core firmware in Embedded C on STM32F401RE for real-time motion processing.
+- Implemented ESP-NOW peer-to-peer wireless communication between dual ESP32 modules.
+- Integrated I2C communication between ESP32 receiver and STM32.
+- Designed PWM-based motor control for IBT-2 drivers.
+- Processed SPI-based touchpad input and mapped motion zones.
+- Implemented filtering, hysteresis, and validation logic for stable control.
+- Integrated ultrasonic sensors with automatic safety stop (<30 cm).
+
+---
 
 ## 🛠️ Skills
 
-Programming Languages: 
-C, C++, Python, Java, Verilog, Assembly, HTML, Embedded Language
-
-Software Tools: 
-Keil uVision, Xilinx Vivado, Visual StudioCode, Git, Microsoft Office Suite, MATLAB
-
-Embedded & System Skills: 
-GPIO, PWM, Timers, ADC, I2C, SPI, UART, EEPROM, RTOS fundamentals, TCP/IP, Firmware Design, data structures, Embedded Code, Operating Systems, Debugging Procedures, Troubleshooting, Arduino, STM32, object-oriented computer programming, systems programming.
-
-Strengths: 
-Software Engineering, Optimization, Low-level System Design, Problem-Solving, Algorithmic Thinking, Independent Projects, Team Collaboration, Cross-functional Collaboration, Detail-oriented, Analytical Skills, Growth Mindset
-
-Workplace Competencies: 
-Teamwork, Professionalism, Time Management, Organizational Skills, Abilityto Work Independently.
-
+Programming: C, C++, Python, Java, Verilog, Assembly  
+Embedded: GPIO, PWM, Timers, ADC, I2C, SPI, UART, EEPROM  
+Tools: Keil, Vivado, VS Code, Git, MATLAB  
+Platforms: STM32, Nuvoton, Arduino  
 
 ---
 
 ## 🏆 Achievements
 
-- 🏆 **SSIP Startup Grant** – ₹73,000 for Smart Vehicle Project  
-- ⚙️ **Solo Builder** – Designed and deployed full pulse generation system  
-- 🎨 **Design Lead** – Created social content for GTU @anveshan.gecsurat
+- 🏆 SSIP Startup Grant – ₹73,000  
+- ⚙️ Solo Builder – Pulse Control System  
+- 🎨 Design Lead – GTU Events  
 
 ---
 
 ## 🌐 Contact
 
-- 📧 Email: [tirth.p2812@gmail.com](mailto:tirth.p2812@gmail.com)  
+- 📧 Email: tirth.p2812@gmail.com  
 - 📱 Phone: +1 (909) 762-0503  
-- 🌍 Location: Pomona, CA 
-
+- 🌍 Location: Pomona, CA  
 
 ---
 
 <p align="center">
-  <b><p align="center">
   <b>Every experiment leads to growth — thank you for visiting! 🌱🔬</b>
-</p>
-
 </p>
