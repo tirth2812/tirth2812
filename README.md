@@ -78,19 +78,13 @@ Right now I am finishing my MS at Cal Poly Pomona while building a **vision-guid
 
 ## 🚀 Featured projects
 
-<table>
-  <tr>
-    <td><a href="https://github.com/tirth2812/CREST_Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tirth2812&repo=CREST_Project&theme=tokyonight&hide_border=true" /></a></td>
-    <td><a href="https://github.com/tirth2812/driving_licence_controlled_smart_vehicle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tirth2812&repo=driving_licence_controlled_smart_vehicle&theme=tokyonight&hide_border=true" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/tirth2812/Heater_controller"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tirth2812&repo=Heater_controller&theme=tokyonight&hide_border=true" /></a></td>
-    <td><a href="https://github.com/tirth2812/Pulse_generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tirth2812&repo=Pulse_generator&theme=tokyonight&hide_border=true" /></a></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><a href="https://github.com/tirth2812/TouchControlCar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tirth2812&repo=TouchControlCar&theme=tokyonight&hide_border=true" /></a></td>
-  </tr>
-</table>
+| Project | Stack | Highlights | Repo |
+|:--|:--|:--|:--|
+| 🏭 **Vision-Guided Industrial Sorting** | Python, C++, RealSense, RFID, PLC | Vision, RFID, and sensors must agree before any action | [CREST_Project](https://github.com/tirth2812/CREST_Project/tree/conveyor-upload) |
+| 🔐 **Driving License Controlled Vehicle** | Raspberry Pi, Python, RFID (SPI), fingerprint (UART) | Funded with ₹73,000 SSIP, founded at 19 | [Repo](https://github.com/tirth2812/driving_licence_controlled_smart_vehicle) |
+| 🌡️ **Autoclave / Heater Controller** | Nuvoton Mini51, bare-metal C, ADC, I2C EEPROM | ±1°C control, settings survive power cycles | [Heater_controller](https://github.com/tirth2812/Heater_controller) |
+| 🎛️ **Programmable Pulse Generator** | Nuvoton M0518, timers, LCD, I2C EEPROM | Menu-driven, settings restored at power-up | [Pulse_generator](https://github.com/tirth2812/Pulse_generator) |
+| 🚗 **TouchControlCar** | STM32F401RE, dual ESP32, SPI, I2C, PWM | Touchpad control with ultrasonic safety stop | [TouchControlCar](https://github.com/tirth2812/TouchControlCar) |
 
 <details open>
 <summary><h3>🏭 Vision-Guided Industrial Sorting, Digital Twin &nbsp;·&nbsp; CREST-RASM, 2026 to present</h3></summary>
