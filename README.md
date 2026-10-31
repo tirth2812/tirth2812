@@ -1,25 +1,30 @@
-<h1 align="center">Tirth Patel</h1>
+<div align="center">
 
-<h3 align="center"><i>Embedded Software &amp; Firmware Engineer</i></h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a8a,100:1f6feb&height=220&section=header&text=Tirth%20Patel&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Software%20%26%20Firmware%20Engineer&descAlignY=60&descSize=22" width="100%" />
 
-<p align="center">
-  Production C firmware on microcontrollers &nbsp;•&nbsp; Real-time sensing and control &nbsp;•&nbsp; Vision-guided automation
-</p>
+<a href="https://tirthp.base44.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=58A6FF&center=true&vCenter=true&width=760&height=50&lines=Production+C+firmware+on+microcontrollers;Holding+%C2%B11%C2%B0C+calibration+accuracy;Real-time+sensing%2C+control+and+bench+debugging;Vision-guided+Industry+4.0+automation;Bare+metal+%E2%80%A2+Real+time+%E2%80%A2+Reliable" alt="Typing animation" />
+</a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-Embedded%20Firmware-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-Real--Time%20Systems-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Test%20%26%20Tooling-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded%20Linux-Jetson%20%7C%20ROS2-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://tirthp.base44.app/"><img src="https://img.shields.io/badge/Portfolio-tirthp.base44.app-111827?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tirth-patel-33b167285/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tirth.p2812@gmail.com"><img src="https://img.shields.io/badge/Email-tirth.p2812%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<img src="https://img.shields.io/badge/C-Embedded%20Firmware-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-Real--Time%20Systems-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Test%20%26%20Tooling-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Embedded%20Linux-Jetson%20%7C%20ROS2-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 
-<p align="center">📍 Pomona, California &nbsp;|&nbsp; 🎓 MS Electrical &amp; Electronics Engineering, Cal Poly Pomona (Dec 2026) &nbsp;|&nbsp; 🟢 Open to full-time firmware and embedded software roles</p>
+<br/><br/>
+
+<a href="https://tirthp.base44.app/"><img src="https://img.shields.io/badge/Portfolio-tirthp.base44.app-111827?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/tirth-patel-33b167285/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:tirth.p2812@gmail.com"><img src="https://img.shields.io/badge/Email-tirth.p2812%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=tirth2812&label=Profile%20views&style=for-the-badge&color=1f6feb" />
+
+<br/><br/>
+
+📍 Pomona, California &nbsp;|&nbsp; 🎓 MS Electrical &amp; Electronics Engineering, Cal Poly Pomona (Dec 2026) &nbsp;|&nbsp; 🟢 **Open to full-time firmware and embedded software roles**
+
+</div>
 
 ---
 
@@ -33,51 +38,63 @@ Right now I am finishing my MS at Cal Poly Pomona while building a **vision-guid
 
 > *"Innovation lives at the intersection of firmware."*
 
+<table align="center">
+  <tr>
+    <td align="center"><h2>±1°C</h2><sub>calibration accuracy<br/>in a production product</sub></td>
+    <td align="center"><h2>+20%</h2><sub>reliability and performance<br/>from bench root-cause work</sub></td>
+    <td align="center"><h2>₹73,000</h2><sub>SSIP funding for a<br/>hardware startup at 19</sub></td>
+    <td align="center"><h2>5</h2><sub>embedded and automation<br/>systems built end to end</sub></td>
+  </tr>
+</table>
+
 ---
 
-## 📊 At a glance
+## 🎯 What I'm focused on right now
 
-| | |
-|:--|:--|
-| ⚙️ **Production firmware** | C on Nuvoton, bare metal, I2C, ADC, timers, GPIO |
-| 🎯 **Calibration accuracy** | ±1°C held in a production product |
-| 📈 **Reliability and performance** | +20% through bench debugging and root-cause analysis |
-| 🏁 **Funded hardware startup** | ₹73,000 SSIP funding, founded at 19 |
-| 🤖 **Current research** | Vision, RFID, and PLC-linked conveyor automation (CREST-RASM) |
+- 🏭 Building a **vision-guided conveyor cell** at CREST-RASM (Python, C++, RFID, RealSense, PLC-linked)
+- 🤖 Maintaining and validating a **ROS2 robot platform on NVIDIA Jetson** with embedded Linux
+- 🔧 Looking for **firmware and embedded software** roles in the US, where I can keep writing C close to the hardware
+- 🎓 Finishing my **MS in Electrical and Electronics Engineering** (Dec 2026)
 
 ---
 
 ## 🛠️ Tech stack
 
-**Languages**
-&nbsp;![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-4B5563?style=flat-square)
+<div align="center">
 
-**Microcontrollers and boards**
-&nbsp;![Nuvoton](https://img.shields.io/badge/Nuvoton-Mini51%20%7C%20M0518-CC0000?style=flat-square)
-![STM32](https://img.shields.io/badge/STM32-F401RE-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Jetson](https://img.shields.io/badge/NVIDIA-Jetson%20AGX-76B900?style=flat-square&logo=nvidia&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,cpp,py,java,linux,git,ros,raspberrypi,github,vscode&perline=10" />
 
-**Interfaces and peripherals**
-&nbsp;`I2C` `SPI` `UART` `ADC` `GPIO` `PWM` `Timers and Interrupts` `EEPROM` `CAN`
+</div>
 
-**Platforms and tools**
-&nbsp;`Embedded Linux` `ROS2` `Keil uVision` `Git` `Oscilloscope` `Intel RealSense` `LiDAR` `IMU`
-
-**Engineering practices**
-&nbsp;`Bare-metal firmware` `Finite state machines` `Real-time design` `Root-cause analysis` `Test plans and automation` `Code reviews` `Technical documentation`
+| Area | What I use |
+|:--|:--|
+| **Languages** | C, C++, Python, Assembly, Java, Verilog |
+| **Microcontrollers and boards** | Nuvoton Mini51 and M0518, STM32F401RE, ESP32, Raspberry Pi, NVIDIA Jetson AGX |
+| **Interfaces** | I2C, SPI, UART, ADC, GPIO, PWM, timers and interrupts, EEPROM, CAN |
+| **Platforms and tools** | Embedded Linux, ROS2, Keil uVision, Git, oscilloscope, Intel RealSense, LiDAR, IMU |
+| **Practices** | Bare-metal firmware, finite state machines, real-time design, root-cause analysis, test plans and automation, code reviews, technical documentation |
 
 ---
 
 ## 🚀 Featured projects
 
-### 🏭 Vision-Guided Industrial Sorting, Digital Twin &nbsp;·&nbsp; *CREST-RASM, 2026 to present*
+<table>
+  <tr>
+    <td><a href="https://github.com/tirth2812/CREST_Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tirth2812&repo=CREST_Project&theme=tokyonight&hide_border=true" /></a></td>
+    <td><a href="https://github.com/tirth2812/driving_licence_controlled_smart_vehicle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tirth2812&repo=driving_licence_controlled_smart_vehicle&theme=tokyonight&hide_border=true" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/tirth2812/Heater_controller"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tirth2812&repo=Heater_controller&theme=tokyonight&hide_border=true" /></a></td>
+    <td><a href="https://github.com/tirth2812/Pulse_generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tirth2812&repo=Pulse_generator&theme=tokyonight&hide_border=true" /></a></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><a href="https://github.com/tirth2812/TouchControlCar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tirth2812&repo=TouchControlCar&theme=tokyonight&hide_border=true" /></a></td>
+  </tr>
+</table>
+
+<details open>
+<summary><h3>🏭 Vision-Guided Industrial Sorting, Digital Twin &nbsp;·&nbsp; CREST-RASM, 2026 to present</h3></summary>
+
 [![Repo](https://img.shields.io/badge/Repo-CREST__Project-181717?style=flat-square&logo=github)](https://github.com/tirth2812/CREST_Project/tree/conveyor-upload) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![RealSense](https://img.shields.io/badge/Intel-RealSense-0071C5?style=flat-square&logo=intel&logoColor=white) ![PLC](https://img.shields.io/badge/PLC-Linked-444?style=flat-square)
 
 A conveyor cell where **vision, RFID, and sensor feedback must all agree** before the system trusts a reading. The hard part was never detecting the object. It was deciding whether to trust that detection.
@@ -100,9 +117,11 @@ flowchart LR
 - Fixed two real failures, **object swapping** and **pallet reordering**, with a continuous confidence-monitoring buffer and an RFID re-verification check before every action.
 - Linked sensor conditions to the conveyor through the **PLC** so actions only happen when every condition agrees.
 
----
+</details>
 
-### 🔐 Driving License Controlled Smart Vehicle (SafeDrive) &nbsp;·&nbsp; *Founder, 2022 to 2024*
+<details>
+<summary><h3>🔐 Driving License Controlled Smart Vehicle (SafeDrive) &nbsp;·&nbsp; Founder, 2022 to 2024</h3></summary>
+
 [![Repo](https://img.shields.io/badge/Repo-driving__licence__controlled__smart__vehicle-181717?style=flat-square&logo=github)](https://github.com/tirth2812/driving_licence_controlled_smart_vehicle) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![RFID](https://img.shields.io/badge/RFID-SPI-444?style=flat-square) ![Fingerprint](https://img.shields.io/badge/Fingerprint-UART-444?style=flat-square)
 
 An ignition system that **starts the vehicle only when the license and fingerprint checks agree**, built to stop underage and unauthorized driving.
@@ -113,9 +132,11 @@ An ignition system that **starts the vehicle only when the license and fingerpri
 - A central device for authorized officials issues licenses and stores driver records in a database.
 - Took the prototype from concept to a funded product with **₹73,000 SSIP funding**.
 
----
+</details>
 
-### 🌡️ Autoclave / Heater Controller &nbsp;·&nbsp; *Nuvoton Mini51, bare-metal C*
+<details>
+<summary><h3>🌡️ Autoclave / Heater Controller &nbsp;·&nbsp; Nuvoton Mini51, bare-metal C</h3></summary>
+
 [![Repo](https://img.shields.io/badge/Repo-Heater__controller-181717?style=flat-square&logo=github)](https://github.com/tirth2812/Heater_controller) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![ADC](https://img.shields.io/badge/ADC-sensing-444?style=flat-square) ![EEPROM](https://img.shields.io/badge/I2C-EEPROM-444?style=flat-square)
 
 Bare-metal temperature control holding **±1°C**, with settings and calibration that survive power cycles.
@@ -126,9 +147,11 @@ Bare-metal temperature control holding **±1°C**, with settings and calibration
 - 9-key keypad input, a 3-digit 7-segment display on 74HC595 shift registers, and a timer-driven main loop.
 - Wrote requirements and bench tests for each function, including the safe relay state, and validated accuracy on the bench.
 
----
+</details>
 
-### 🎛️ Programmable Pulse Generator &nbsp;·&nbsp; *Nuvoton M0518, embedded C*
+<details>
+<summary><h3>🎛️ Programmable Pulse Generator &nbsp;·&nbsp; Nuvoton M0518, embedded C</h3></summary>
+
 [![Repo](https://img.shields.io/badge/Repo-Pulse__generator-181717?style=flat-square&logo=github)](https://github.com/tirth2812/Pulse_generator) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Timers](https://img.shields.io/badge/Timer-interrupts-444?style=flat-square) ![LCD](https://img.shields.io/badge/16x2-LCD-444?style=flat-square)
 
 A signal generator driven from a **16x2 LCD menu and keypad** instead of a laptop.
@@ -138,9 +161,11 @@ A signal generator driven from a **16x2 LCD menu and keypad** instead of a lapto
 - Settings are saved to **AT24C04 EEPROM over I2C**, so the generator restores its last configuration at power-up.
 - State-machine menu for channel selection, digit entry, and run status, with LED indicators per channel.
 
----
+</details>
 
-### 🚗 TouchControlCar &nbsp;·&nbsp; *STM32F401RE + dual ESP32, embedded C*
+<details>
+<summary><h3>🚗 TouchControlCar &nbsp;·&nbsp; STM32F401RE + dual ESP32, embedded C</h3></summary>
+
 [![Repo](https://img.shields.io/badge/Repo-TouchControlCar-181717?style=flat-square&logo=github)](https://github.com/tirth2812/TouchControlCar) ![STM32](https://img.shields.io/badge/STM32-F401RE-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![SPI](https://img.shields.io/badge/SPI-I2C-444?style=flat-square) ![PWM](https://img.shields.io/badge/PWM-motors-444?style=flat-square)
 
 A wireless car controlled from a **resistive touchpad**, with an **ultrasonic safety stop** that overrides manual commands.
@@ -160,9 +185,20 @@ flowchart LR
 - Ultrasonic safety stop halts the motors when an obstacle is closer than 30 cm, with filtering and timeouts to reduce false triggers.
 - Debugged the safety-stop timing and sensor signals on the bench with an oscilloscope.
 
+</details>
+
 ---
 
 ## 💼 Experience
+
+```mermaid
+timeline
+    title Career timeline
+    2023 : NexInnovation, Hardware Testing and Assembly
+    2024 : Inoweave, Embedded Software Developer (production C firmware)
+    2025 : MS begins at Cal Poly Pomona : Northrop Grumman collaboration project, System Engineer
+    2026 : CREST-RASM, Graduate Research Assistant : Cal Poly Pomona Foundation, Graduate Research Assistant
+```
 
 | When | Role | What I did |
 |:--|:--|:--|
@@ -171,8 +207,6 @@ flowchart LR
 | **Aug 2025 to Aug 2026** | System Engineer, **Northrop Grumman collaboration project** | UGV electrical subsystem requirements, block diagrams, and design artifacts for SRR and PDR reviews |
 | **Jan 2024 to Jun 2024** | Embedded Software Developer, **Inoweave** | Production C firmware on Nuvoton: I2C drivers, ADC acquisition, timer ISRs, relay control with fault detection, ±1°C calibration, +20% reliability and performance |
 | **Jun 2023 to Jul 2023** | Hardware Testing and Assembly, **NexInnovation** | Board-level validation and root-cause failure analysis, about 20% lower failure rate, 15% better assembly efficiency |
-
----
 
 ## 🎓 Education
 
@@ -190,14 +224,35 @@ flowchart LR
 
 ---
 
+## 📈 GitHub activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tirth2812&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirth2812&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=tirth2812&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth2812&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
 ## 📬 Let's talk
 
 I am looking for **full-time embedded firmware and software roles** where I can keep building systems that have to work on real hardware.
 
-<p align="center">
-  <a href="https://tirthp.base44.app/"><b>🌐 Portfolio</b></a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/tirth-patel-33b167285/"><b>💼 LinkedIn</b></a> &nbsp;•&nbsp;
-  <a href="mailto:tirth.p2812@gmail.com"><b>✉️ tirth.p2812@gmail.com</b></a>
-</p>
+<div align="center">
 
-<p align="center"><i>Innovation lives at the intersection of firmware.</i></p>
+<a href="https://tirthp.base44.app/"><b>🌐 Portfolio</b></a> &nbsp;•&nbsp;
+<a href="https://www.linkedin.com/in/tirth-patel-33b167285/"><b>💼 LinkedIn</b></a> &nbsp;•&nbsp;
+<a href="mailto:tirth.p2812@gmail.com"><b>✉️ tirth.p2812@gmail.com</b></a>
+
+<br/>
+
+<i>Innovation lives at the intersection of firmware.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:1f3a8a,100:0d1117&height=120&section=footer" width="100%" />
+
+</div>
