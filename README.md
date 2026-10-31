@@ -224,21 +224,6 @@ timeline
 
 ---
 
-## 📈 GitHub activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tirth2812&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirth2812&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=tirth2812&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth2812&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
 ## 📬 Let's talk
 
 I am looking for **full-time embedded firmware and software roles** where I can keep building systems that have to work on real hardware.
